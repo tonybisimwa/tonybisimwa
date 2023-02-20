@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tonybisimwa
-- 👀 I’m interested in data analysis and data science
-- 🌱 I’m currently learning python
+- 👀 I’m interested in data analysis/data science, and software engineering
+- 🌱 I’m currently learning python and business data analytics
 - 💞️ I’m looking to collaborate on projects dealing with data analysis
 - 📫 How to reach me: @tonybisimwa
 
